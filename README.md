@@ -1,5 +1,7 @@
 ### BAEKJOON Algorithm Solutions
 
+#### 210527
+- 14681.c - 사분면 고르기
 
 #### 210526
 - 2588.c - 세자리 수 곱셈
