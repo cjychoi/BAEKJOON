@@ -1,5 +1,8 @@
 ### BAEKJOON Algorithm Solutions
 
+#### 210607
+- 10818.c - 최소, 최대 (배열)
+
 #### 210603
 - 1100.c - 더하기 사이클
 - 1100-2.c - 더하기 사이클 sol 2 (Short Solution)
